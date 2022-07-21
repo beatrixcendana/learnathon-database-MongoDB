@@ -1,5 +1,7 @@
 # learnathon-demo
 
+### Learn about MongoDB Atlas and how it relates to serverless application on mobile.
+
 #### Example cURL commands:
 Create a new book:
 `curl -X POST -H "Content-Type: application/json" -d '{"author": "Tristan", "title": "Learnathon", "isbn": "978-3-16-148410-0" }' http://localhost:8000/book/`
